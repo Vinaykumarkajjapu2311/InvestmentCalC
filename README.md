@@ -41,4 +41,7 @@ npm i
 npm run dev
 ```
 
+### Check out Investment Calc at
+https://investmentcalculatorzzz.netlify.app/
+
 
